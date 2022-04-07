@@ -13,7 +13,7 @@
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
         "IsHide": false,
-        "IsTestingExclusive": true,
+        "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
         "DownloadCount": 0,
