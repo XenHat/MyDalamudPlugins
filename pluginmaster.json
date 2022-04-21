@@ -27,7 +27,8 @@
     "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://xiv.chat/",
+    "DownloadLinkInstall": "https://github.com/XenHat/MyDalamudPlugins/raw/main/XIVChat/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XenHat/MyDalamudPlugins/raw/main/XIVChat/latest.zip",
     "DalamudApiLevel": 6,
-    "LoadPriority": 0
   }
 ]
