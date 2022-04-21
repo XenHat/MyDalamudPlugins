@@ -1,22 +1,33 @@
 [
-    {
-        "Author": "XenHat",
-        "Name": "AntiAfkKick",
-        "Punchline": "A modified version of Eternita's AntiAfkKick Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
-        "Description": "",
-        "InternalName": "AntiAfkKick-Dalamud",
-        "AssemblyVersion": "2.1.0.2",
-        "RepoUrl": "https://github.com/XenHat/AntiAfkKick",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    }
+  {
+    "Author": "XenHat",
+    "Name": "AntiAfkKick",
+    "Punchline": "A modified version of Eternita's AntiAfkKick Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+    "Description": "",
+    "InternalName": "AntiAfkKick-Dalamud",
+    "AssemblyVersion": "2.1.0.2",
+    "RepoUrl": "https://github.com/XenHat/AntiAfkKick",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 5,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/XenHat/MyDalamudPlugins/raw/main/AntiAfkKick/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
+  },
+  {
+    "Author": "ascclemens",
+    "Name": "XIVChat Server",
+    "InternalName": "XIVChat",
+    "AssemblyVersion": "1.7.1",
+    "Description": "XIVChat is a suite of software allowing you to use FFXIV's chat from\ndifferent devices. This is the server component required to do so.\n\nFor information about clients to use with this server, see the website.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://xiv.chat/",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0
+  }
 ]
